@@ -4,7 +4,7 @@ import java.nio.file.Files;
 
 public class Puzzle1 {
 
-	private static final String FILE = "./input.txt";
+    private static final String FILE = "./input.txt";
     private static final char TREE = '#';
     private static final int xIncrement = 3;
     private static final int yIncrement = 1;
